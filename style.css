@@ -61,11 +61,14 @@ div.info{
 
 div.info > h2{  
     color: #444444;  
-    font-size: 300%
+    font-size: 250%
 }
 
-div.info > p{    
+div.info{    
     font-size: 200%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 footer{
